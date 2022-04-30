@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "oneSignal",
+    "slug": "oneSignal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
