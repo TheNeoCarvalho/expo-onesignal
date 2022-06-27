@@ -1,4 +1,4 @@
-package com.onesignal;
+package com.manoelcarvalho.oneSignal;
 
 import android.os.Build;
 import android.os.Bundle;

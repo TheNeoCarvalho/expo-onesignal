@@ -5,6 +5,23 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      [
+        "onesignal-expo-plugin",
+        {
+          "mode": "development"
+        }
+      ]
+    ],
+    "extra": {
+      "oneSignalAppId": "1d3edfc0-967e-4e78-a8c4-6fbfd1941ac6"
+    },
+    "android": {
+      "package": "com.manoelcarvalho.oneSignal"
+    },
+    "ios": {
+      "bundleIdentifier": "com.manoelcarvalho.oneSignal"
+    }
   }
 }
